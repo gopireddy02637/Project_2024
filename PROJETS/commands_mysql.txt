@@ -1,0 +1,71 @@
+
+
+
+C:\Users\Admin>mysql -u root -p
+Enter password: *******
+
+
+mysql> show databases;
+
+
+mysql> drop database iot_project;
+
+
+mysql> show databases;
+
+mysql> drop database iotexam;
+
+
+mysql> show databases;
+
+
+mysql> drop database iotdb;
+
+
+mysql> show databases;
+
+
+mysql> create database iot_project;
+
+
+mysql> show databases;
+
+
+mysql> use monitoring;
+
+mysql> create table industrial_parameters(id integer primary key auto_increment, temp float , hum float, fire float, air float, date TIMESTAMP default CURRENT_TIMESTAMP);
+
+
+mysql> show tables;
+
+
+mysql> select id, temp,hum, fired, air, date from industrial_parameters;
+
+mysql> show tables;
+
+
+mysql> select id, temp_humidity, firedetect, airquality, created_date from industrial_parameters;
+
+
+
+
+
+
+
+---------------------------------------------------------------------------mosquitto-----------------------------------------------------------------------------------
+mosquitto.exe -v -c "C:\Program Files\Mosquitto\mosquitto.conf"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

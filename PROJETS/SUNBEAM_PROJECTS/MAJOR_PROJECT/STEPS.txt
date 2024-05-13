@@ -1,0 +1,43 @@
+1. NODEMCU
+
+****SENSOR***
+
+2.DHT11(TEMP AND HUMIDTY)
+-->analog as well as digital
+
+
+3.SNS-MQ-135(GAS AND AIR QUILITY)
+-->>analog as well as digital
+
+4.KY-026 Flame-sensor
+-->>analog as well as digital
+
+*****PROTOCAL*****
+
+1.rest protocal
+
+WHAT TO DO?
+
+1->>DATABASE(MYSQL)
+
+2->>SUB  OR  PUB
+---->>MQTT
+-___>>
+
+3->>APPLICATION HANDLINE.
+--->
+ 
+
+4->>NODEMCU
+--->>.
+
+ppt
+-->topic name(aarit)
+-->content(aarit)
+-->introduction(aarit)
+-->objective(aarit)
+-->block diagram(surbhi)
+-->basic circuit used(bharti)
+-->technology used(gopi)
+-->work going on(gopi)
+
