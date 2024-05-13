@@ -1,0 +1,196 @@
+ 
+
+Topics Covered:
+
+ 
+
+--> Basics
+    > Hello World#
+    > Formatting Output#
+    > if else if else Statements
+    > Switch Statements
+    > Ternary Conditional Operator
+    > Macros#
+    > For Loop
+    > While Loop
+    > Do While Loop
+    > For Each Loop
+    > Linear Search
+    > Binary Search
+    > Selection Sort
+    > Bubble Sort
+    > continue, break & goto
+    > Pointers vs References#
+    > dangling pointer
+    > void pointer
+    > null pointer
+    > wild pointer
+    > opaque pointers
+    > Nan
+    > nullptr
+    > Inline Functions
+    > Array Decay#
+    > Pass arguments by pointers#
+    > Pass arguments by references#
+    > Pass arguments by pointers vs by references#
+    > Pass function by pointers#
+    > Pass function by references#
+--> OOPs
+    > Classes and Object#
+    > Access Modifiers#
+    > Getters Setters#
+    > Structure vs Class
+    > Single Inheritance#
+    > Multilevel Inheritance#
+    > Multiple Inheritance#
+    > Hierarchical Inheritance#
+    > Function Overloading#
+    > Functions That Can't Be Overloaded#
+    > Operator Overloading#
+    > Operator That Can't Be Overloaded#
+    > Functors
+    > Object Slicing without virtual function
+    > Function Overriding with virtual function
+     > Default Constructor
+    > Parameterised Constructor
+    > Copy Constructor
+    > Implicit Shallow Copy Constructor
+    > Expliczlit Deep Copy Constructor
+    > Destructor
+    > Virtual Destructor
+    > Virtual Constructor
+    > Private Destructor
+    > Private Constructor
+    > Pure Virtual Destructor
+    > Pure Virtual Constructor
+    > Private Virtual Function
+    > Initializer List
+    > Default Value with Initializer List
+    > Default Value with Constructor
+    > Default Value with Virtual Function
+    > Smart Pointer
+    > unique_ptr
+    > shared_ptr
+    > weak_ptr
+    > Static Data Members
+    > Static Member Functions
+    > Constant Data Members
+    > Constant Member Function
+    > Friend Function
+    > Run Time Type Identification
+--> Advanced
+    > static_cast
+    > const_cast
+    > dynamic_cast
+    > reinterpret_cast
+    > Function Template
+    > C lass Template
+    > Multiple Arguments for Templates
+    > Default Value for Template Arguments
+    > Non Type Value for Template Arguments
+    > Templates having static members
+    > Lambda Expressions
+    > Lambda Capture by reference
+    > Lambda Capture by value
+    > Lambda Capture by both value & reference
+    > Namespace
+    > Extending Namespace
+    > Unnamed Namespace
+    > Accessing Namespace
+    > Nested Namespace
+    > Namespace Aliasing
+    > Exception Handling
+    > Stack Unwinding
+    > Exception Handling with Object Destruction
+--> Data Structures
+    > Singly Linked List
+    > Circular Linked List
+    > Doubly Linked List
+    > XOR Linked List
+    > Skip Linked List
+    > Self Organizing Linked List
+    > Unrolled Linked List
+    > Binary Tree
+    > Binary Search Tree
+    > AVL Tree
+    > Red Black Tree
+    > Splay Tree
+    > Treap
+    > B Tree
+    > Heap
+    > Graph
+--> SOLID Principles
+    > Single Responsibility Principle
+    > Open Closed Principle
+    > Liskov’s Substitution Principle
+    > Interface Segregation Principle
+    > Dependency Inversion Principle
+--> STL
+    > String
+    > Pair
+    > Tuple
+    > Vectors
+    > Array
+    > List
+    > Stack
+    > Queue
+    > Priority Queue
+    > Set
+    > Multiset
+    > Map
+    > Multimap
+    > unordered_map
+    > unordered_multimap
+    > unordered_set
+    > unordered_multiset
+--> Design Patterns
+    > Factory Pattern
+    > Singleton Pattern
+    > Observer Pattern
+    > Decorator Pattern
+    > Command Pattern
+    > Adapter Pattern
+    > Builder Pattern
+    > Strategy Pattern
+--> Problem Solving Questions
+    > Two Sum
+    > Roman to Integer
+    > Merge Two Sorted Lists
+    > Remove Duplicates from Sorted Array
+    > Climbing Stairs
+    > Binary Tree Inorder Traversal
+    > Symmetric Tree
+    > Maximum Depth of Binary Tree
+    > Convert Sorted Array to Binary Search Tree
+    > Pascal's Triangle
+    > Best Time to Buy and Sell Stock
+    > Single Number
+    > Intersection of Two Linked Lists
+    > Majority Element
+    > Excel Sheet Column Number
+    > Reverse Bits
+    > Number of 1 Bits
+    > Happy Number
+    > Reverse Linked List
+    > Contains Duplicate
+    > Palindrome Linked List
+    > Valid Anagram
+    > Missing Number
+    > Move Zeroes
+    > Reverse String
+    > Intersection of Two Arrays II
+    > First Unique Character in a String
+    > Fizz Buzz
+--> Multithreading
+    > Process Synchronization
+    > Semaphores
+    > Mutex
+    > Mutex vs Binary Semaphore
+    > Hello World using Multithreading
+    > Reader Writer Application using Multithreading
+    > Find Frequency of a substring in a string using Multithreading
+    > Find Non Repeating Elements of a given array using Multithreading
+
+  
+
+*/
